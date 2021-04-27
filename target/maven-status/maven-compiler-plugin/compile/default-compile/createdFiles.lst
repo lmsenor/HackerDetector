@@ -1,0 +1,5 @@
+com\HackerDetector\HackerDetectorApplication.class
+com\HackerDetector\service\HackerDetectorImpl.class
+com\HackerDetector\controllers\HackerController.class
+com\HackerDetector\model\Datos.class
+com\HackerDetector\service\HackerDetector.class
